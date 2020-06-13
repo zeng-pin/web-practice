@@ -6,3 +6,12 @@
 		line-height:3.2rem;
 		letter-spacing:normal;
 }
+.center-strong{
+	font-family:"segoe ui","microsoft yahei","microsoft mhei",stheititc,sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	line-height:3.2rem;
+	letter-spacing:normal;
+	text-align: center;
+	
+}
